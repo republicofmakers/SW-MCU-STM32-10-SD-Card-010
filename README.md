@@ -1,4 +1,4 @@
-# SW-MCU-STM32-10-SD-Card-010
+# SW-MCU-STM32-SD-Card-010
 
 Please generate drivers , with .ioc file.
 
